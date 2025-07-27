@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="NeuroJazz Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/charityfroggenhall/neurojazz/main/docs/assets/logo.png" alt="NeuroJazz Logo" width="220"/>
 </p>
 
 <h1 align="center">NeuroJazz</h1>
@@ -7,14 +7,22 @@
 
 ---
 
-<div align="center">
+<p align="center">
+AI-assisted journaling for ADHD minds.<br>
+Capture fast, think slow. No blank-page panic, no lost ideas.
+</p>
+
+---
 
 ### 🔗 Explore  
-<p>Explore guides, case studies, research threads, and templates below.</p>
+<p align="center">Explore guides, case studies, research threads, and templates below:</p>
 
-**[Playbook](playbook.md)** • **[Case Study](case-study/openai-essay.md)** • **[Research Threads](research-threads/index.md)** • **[Templates](templates/index.md)**
-
-</div>
+<p align="center">
+<a href="playbook.md">📘 Playbook</a> • 
+<a href="../case-study/openai-essay.md">📄 Case Study</a> • 
+<a href="../research-threads/index.md">🔍 Research Threads</a> • 
+<a href="../templates/index.md">🗂 Templates</a>
+</p>
 
 ---
 
