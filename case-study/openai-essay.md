@@ -11,7 +11,7 @@ That was all it was supposed to be, a personal database experiment.
 ### Then something unexpected happened.
 I started noticing that the act of writing during those sessions, the stream-of-consciousness note-taking, felt valuable beyond the gummy analysis. It wasn’t just recording effects, it was capturing my mind in motion.
 
-And that mattered, because ADHD isn’t just about distraction. In fact, “attention deficit” is a misnomer. It’s not a lack of attention, it’s difficulty aiming attention at the right things at the right time. Thoughts crowd in, but you can’t always hold onto the ones that matter. That fear of losing them drives anxiety. For me, that anxiety was a constant background hum.
+And that mattered, because ADHD isn’t just about distraction. In fact, “attention deficit” is a misnomer. It’s not a lack of attention, **it’s difficulty aiming attention at the right things at the right time.** Thoughts crowd in, but you can’t always hold onto the ones that matter. That fear of losing them drives anxiety. For me, that anxiety was a constant background hum.
 
 Logging in ChatGPT gave me something I’d never had before:
 **a cognitive safety net.**
@@ -23,7 +23,7 @@ Every stray thought had a place to land without breaking the flow. If I typed a 
 ### The backstory that makes this hit hard.
 I was the “gifted” kid, the one reading ahead before first grade. My mom even wondered if I should start later because I seemed “immature.” But in the late ’70s, no one had language for ADHD in girls. All the research then centered on white, hyperactive 7-year-old boys.
 
-So I grew up thinking I was smart but flaky, lazy, or careless. Decades later, during the pandemic, the coping structures I’d built collapsed. Remote work magnified every crack. That’s when I sought diagnosis at 48.
+So I grew up thinking I was smart but flaky, lazy, or careless. Decades later, during the 2020 pandemic, the coping structures I’d built collapsed. Remote work magnified every crack. That’s when I sought diagnosis at 48.
 
 I’m not alone. Millions of late-diagnosed women and AFAB individuals share this story. Research still lags far behind our lived reality.
 
@@ -36,7 +36,7 @@ Traditional journaling is high-friction for ADHD brains. Blank pages demand perf
 
 This method changes that because the act of journaling becomes a kind of mindfulness practice. It focuses the mind on the present thought without the anxiety of losing it, because once written, it’s safe.
 
-Sure, you could open a voice memo or dump words into a notes app, but that only captures the noise. What makes this different is ChatGPT’s ability to synthesize and index those streams, turning raw thoughts into something navigable and meaningful. This isn’t a three-hour audio file you’ll never revisit. It’s a system that shapes chaos into structure without breaking the flow.
+Sure, you could open a voice memo or dump words into a notes app, but that only captures the noise. What makes this different is ChatGPT’s ability to **synthesize and index** those streams, turning raw thoughts into something navigable and meaningful. This isn’t a three-hour audio file you’ll never revisit. It’s a system that shapes chaos into structure without breaking the flow.
 
 The brilliance of this AI-assisted approach isn’t that it makes journaling easier, it makes it possible by:
 - Catching fragments (stub rescue)
@@ -47,10 +47,10 @@ What started as “track gummies” became **NeuroJazz**, a method for improvisi
 
 ---
 
-### Somewhere along the way, I asked: is this useful beyond me?
+### As this grew and deepened, I asked: is this useful beyond me?
 I’m not a researcher. But I’ve spent enough time in ADHD forums and work support chats to know I’m not the only one struggling with lost thoughts, mental load anxiety, and the gap between knowing what helps and actually doing it.
 
-Here’s the problem: all these insights were living inside ChatGPT, a walled garden. They helped me, but no one else. And unless this work leaves that box, it disappears when the session ends.
+All these insights were living inside ChatGPT, a walled garden. They helped me, but no one else. ChatGPT can save these insights in memory, but the system won't train on what I've added and upload them to a "Borg" consciousness to share. And unless this work leaves that box, it disappears when the session ends.
 
 That’s why I built the GitHub repo.
 That’s why I’m writing this.
@@ -63,7 +63,9 @@ That’s why I’m writing this.
 - It’s open: licensed for non-commercial use, because community matters more than profit.
 - And it’s iterative by design: the repo shows the evolution from raw logs to structured frameworks.
 
-It’s also data-aware. ChatGPT can integrate physiological signals with cognitive logs. In my case, Oura’s open API enabled automated imports of sleep and readiness metrics through scripts like our Oura-fetch module—bridging subjective experience with objective trends. Unlike some platforms that gate data behind tiers, Oura makes this access available to all subscribers, which matters for equity and research reproducibility.
+ChatGPT isn’t just conversational—it’s data-aware. It can integrate physiological signals with cognitive logs to create richer context for analysis. Data integration is possible via the [Oura API Documentation](https://cloud.ouraring.com/docs), which allows developers—and regular curious nerds like me—to fetch sleep and readiness metrics.
+
+In my workflow, Oura’s open API enabled automated imports of these metrics through scripts like the fetch_oura_data module, bridging subjective experiences with objective trends. Unlike platforms that lock data behind premium tiers, Oura provides this access to all subscribers, which supports both equity and research reproducibility.
 
 Other wearables, like Apple Watch, can add value, but lack of straightforward export without third-party tools creates friction. Even Oura’s built-in tagging system, while useful, requires manual steps and app switching—something ADHD brains are especially vulnerable to. Externalizing that complexity into automated scripts keeps the cognitive load low and preserves the flow.
 
