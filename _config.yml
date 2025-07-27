@@ -1,0 +1,28 @@
+title: "NeuroJazz"
+description: "AI-assisted journaling for ADHD minds — Turning chaos into structured creativity"
+baseurl: "/neurojazz" # Your GitHub Pages repo name
+url: "https://charityfroggenhall.github.io"
+theme: minima
+markdown: kramdown
+
+# Plugins for GitHub Pages (supported natively)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude unnecessary files from build
+exclude:
+  - README.md
+  - LICENSE.md
+  - robots.txt
+  - Gemfile
+  - Gemfile.lock
+
+# Default settings for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
