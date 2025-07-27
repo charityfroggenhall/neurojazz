@@ -1,3 +1,8 @@
+---
+layout: default
+title: Templates
+---
+
 # Templates
 
 Welcome to the template library for NeuroJazz journaling. These pre-built structures are designed to make your sessions easier, more organized, and repeatable, without losing the flexibility that creativity needs.
