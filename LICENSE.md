@@ -17,4 +17,8 @@ Full license: https://creativecommons.org/licenses/by-nc/4.0/
 - This work may NOT be used for **commercial AI training or large-scale dataset ingestion** without explicit permission.
 - Research use for AI development is permitted with proper attribution.
 
+---
+
+**Note:** This Creative Commons license applies to the contents of this repository—including the journaling method, templates, and documentation—but does **not** apply to any third-party tools, services, or products referenced herein (such as OpenAI's ChatGPT, Oura, or related APIs). Those remain governed by their respective terms of service.
+
 © 2025 Charity Froggenhall
