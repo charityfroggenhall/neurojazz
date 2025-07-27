@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charityfroggenhall/neurojazz/main/docs/assets/logo.png" alt="NeuroJazz Logo" width="220"/>
+  <img src="assets/logo.png" alt="NeuroJazz Logo" width="220"/>
 </p>
 
 <h1 align="center">NeuroJazz</h1>
@@ -14,15 +14,17 @@ Capture fast, think slow. No blank-page panic, no lost ideas.
 
 ---
 
-### 🔗 Explore  
-<p align="center">Explore guides, case studies, research threads, and templates below:</p>
+<div align="center">
 
-<p align="center">
+<h3>🔗 Explore</h3>
+<p>Explore guides, case studies, research threads, and templates below:</p>
+
 <a href="playbook.md">📘 Playbook</a> • 
-<a href="../case-study/openai-essay.md">📄 Case Study</a> • 
-<a href="../research-threads/index.md">🔍 Research Threads</a> • 
-<a href="../templates/index.md">🗂 Templates</a>
-</p>
+<a href="case-study/openai-essay.md">📄 Case Study</a> • 
+<a href="research-threads/index.md">🔍 Research Threads</a> • 
+<a href="templates/index.md">📂 Templates</a>
+
+</div>
 
 ---
 
