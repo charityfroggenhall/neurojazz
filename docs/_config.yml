@@ -4,6 +4,8 @@ baseurl: "/neurojazz" # Your GitHub Pages repo name
 url: "https://charityfroggenhall.github.io"
 theme: minima
 markdown: kramdown
+sass:
+  style: compressed
 
 # Plugins for GitHub Pages (supported natively)
 plugins:
