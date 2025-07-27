@@ -1,18 +1,22 @@
-# NeuroJazz
 <p align="center">
-  <img src="../assets/logo.png" alt="NeuroJazz Logo" width="250">
+  <img src="../assets/logo.png" alt="NeuroJazz Logo" width="220"/>
 </p>
 
-AI-assisted journaling for ADHD minds.  
-Turning chaotic thought flows into structured insights without breaking spontaneity.
+<h1 align="center">NeuroJazz</h1>
+<p align="center"><em>Turning ADHD chaos into structured creativity</em></p>
 
 ---
 
-## Explore
-- [About NeuroJazz](about.md)
+AI-assisted journaling for ADHD minds.  
+Capture fast, think slow. No blank-page panic, no lost ideas.
+
+---
+
+### 🔗 Explore
+- [Playbook](playbook.md)
 - [Case Study](../case-study/openai-essay.md)
-- [Ethics](../ETHICS.md)
-- [GitHub Repository](https://github.com/charityfroggenhall/neurojazz)
+- [Research Threads](../research-threads/index.md)
+- [Templates](../templates)
 
 ---
 
