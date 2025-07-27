@@ -1,7 +1,6 @@
 # Case Study: Narrative Version
 
-## Title
-From Gummy Logs to Cognitive Scaffolds: How AI Became My ADHD Co-Pilot
+## From Gummy Logs to Cognitive Scaffolds: How AI Became My ADHD Co-Pilot
 
 **By:** Charity Froggenhall
 
