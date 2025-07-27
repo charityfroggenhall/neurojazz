@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.png" alt="NeuroJazz Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/charityfroggenhall/neurojazz/main/assets/logo.png" alt="NeuroJazz Logo" width="220"/>
 </p>
 
 <h1 align="center">NeuroJazz</h1>
