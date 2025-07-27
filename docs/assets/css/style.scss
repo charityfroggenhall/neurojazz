@@ -1,0 +1,9 @@
+---
+# Only the dashes and this comment are required for Jekyll to process SCSS.
+---
+
+@import "minima";
+
+nav.site-nav {
+  display: none !important;
+}
