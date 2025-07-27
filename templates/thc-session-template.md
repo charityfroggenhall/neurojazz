@@ -1,0 +1,3 @@
+# THC Session Template
+
+Time | Context | Threads | Observations...

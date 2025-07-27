@@ -1,0 +1,3 @@
+# About NeuroJazz
+
+Full evolution story, Who's Behind This, Bio Context...

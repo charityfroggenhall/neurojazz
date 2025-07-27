@@ -1,0 +1,3 @@
+# AI as Cognitive Prosthetic
+
+Stub for future research...
