@@ -1,5 +1,10 @@
+---
+layout: default
+title: "NeuroJazz"
+---
+
 <p align="center">
-  <img src="assets/logo.png" alt="NeuroJazz Logo" width="220"/>
+  <img src="{{ site.baseurl }}/assets/logo.png" alt="NeuroJazz Logo" width="220"/>
 </p>
 
 <h1 align="center">NeuroJazz</h1>
@@ -9,10 +14,13 @@
 
 <div align="center">
 
-### 🔗 Explore  
+### 🔗 Explore
 <p>Explore guides, case studies, research threads, and templates below.</p>
 
-**[Playbook](playbook.md)** • **[Case Study](case-study/openai-essay.md)** • **[Research Threads](research-threads/index.md)** • **[Templates](templates/index.md)**
+**[Playbook]({{ site.baseurl }}/playbook.html)** •  
+**[Case Study]({{ site.baseurl }}/case-study/openai-essay.html)** •  
+**[Research Threads]({{ site.baseurl }}/research-threads/index.html)** •  
+**[Templates]({{ site.baseurl }}/templates/index.html)**
 
 </div>
 
