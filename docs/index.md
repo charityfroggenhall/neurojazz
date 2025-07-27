@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: home
 title: "NeuroJazz"
+nav_exclude: true
+permalink: /
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/logo.png" alt="NeuroJazz Logo" width="220"/>
+  <img src="assets/logo.png" alt="NeuroJazz Logo" width="220"/>
 </p>
 
 <h1 align="center">NeuroJazz</h1>
@@ -14,13 +16,15 @@ title: "NeuroJazz"
 
 <div align="center">
 
-### 🔗 Explore
-<p>Explore guides, case studies, research threads, and templates below.</p>
+AI-assisted journaling for ADHD minds.  
+Capture fast, think slow. No blank-page panic, no lost ideas.
 
-**[Playbook]({{ site.baseurl }}/playbook.html)** •  
-**[Case Study]({{ site.baseurl }}/case-study/openai-essay.html)** •  
-**[Research Threads]({{ site.baseurl }}/research-threads/index.html)** •  
-**[Templates]({{ site.baseurl }}/templates/index.html)**
+---
+
+### 🔗 Explore  
+Explore guides, case studies, research threads, and templates below:
+
+**[Playbook](playbook.md)** • **[Case Study](case-study/openai-essay.md)** • **[Research Threads](research-threads/index.md)** • **[Templates](templates/index.md)**
 
 </div>
 
