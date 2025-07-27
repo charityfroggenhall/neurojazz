@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Playbook
-nav_order: 1
-description: Practical steps for AI-assisted journaling and cognitive scaffolding.
 ---
 
 # NeuroJazz Playbook
