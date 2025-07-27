@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="assets/logo.png" alt="NeuroJazz Logo" width="220"/>
+  <img src="docs/assets/logo.png" alt="NeuroJazz Logo" width="220"/>
 </p>
 
 <h1 align="center">NeuroJazz</h1>
 <p align="center"><em>Turning ADHD chaos into structured creativity</em></p>
-
 ---
 
 <div align="center">
