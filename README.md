@@ -2,6 +2,9 @@
   <img src="assets/logo.png" alt="NeuroJazz Logo" width="300">
 </p>
 
+[![View on GitHub Pages](https://img.shields.io/badge/View%20Site-NeuroJazz-blue)](https://charityfroggenhall.github.io/neurojazz)
+![Last Updated](https://img.shields.io/github/last-commit/charityfroggenhall/neurojazz?label=Last%20Updated)
+
 # NeuroJazz Repo
 
 ![License Badge](https://img.shields.io/badge/license-CC%20BY--NC%204.0-green)
