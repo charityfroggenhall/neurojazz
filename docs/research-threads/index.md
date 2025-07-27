@@ -1,3 +1,8 @@
+---
+layout: default
+title: Research Threads
+---
+
 # Research Threads Index
 
 This section collects ongoing questions and ideas for future research inspired by NeuroJazz journaling experiments. Each thread links to a dedicated page for notes and development.
