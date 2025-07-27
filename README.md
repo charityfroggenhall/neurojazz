@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="NeuroJazz Logo" width="300">
+</p>
+
 # NeuroJazz Repo
 
 ![License Badge](https://img.shields.io/badge/license-CC%20BY--NC%204.0-green)
