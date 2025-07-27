@@ -1,3 +1,3 @@
 # GLP-1 & ADHD Hypothesis
 
-Stub for future research...
+Can Zepbound itself help patients who also have ADHD with cognitive impulsivity? A worthy topic for research!
