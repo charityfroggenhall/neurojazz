@@ -8,10 +8,18 @@
 ---
 
 ## 2. Getting Started
+
 - Open ChatGPT (or similar AI tool).
 - Begin a free-flow journaling session.
 - Add timestamps (optional but recommended).
 - Use [Tag Examples](#tags) to mark important ideas.
+
+**Tip:** If you have a paid ChatGPT plan, consider creating a **Custom GPT** for NeuroJazz. This allows:
+- Saving your journaling instructions
+- Maintaining richer context across sessions
+- Storing links to templates for quick access
+
+Free users can still benefit by creating a **Project** in the ChatGPT interface, which organizes related conversations without requiring extra memory.
 
 ---
 
@@ -60,6 +68,9 @@ Here are two simple ways to add visual cues:
 - Turns chaotic streams into usable structure.
 
 ---
+
+### Learn More
+For the full story behind this system—why it works, how it evolved, and the ethical considerations—see the [Case Study](../case-study/openai-essay.md).
 
 ### Tags
 - `thclog`, `oura`, `cognitionlog`, `ef-win`
