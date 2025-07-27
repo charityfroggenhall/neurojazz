@@ -1,0 +1,9 @@
+/* Hide the Minima theme top nav and header */
+.site-header {
+  display: none !important;
+}
+
+/* Remove top padding left by header */
+.page-content {
+  margin-top: 0 !important;
+}
