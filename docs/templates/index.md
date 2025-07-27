@@ -1,9 +1,8 @@
 # Templates
 
-This section contains reusable templates for logging and integration.
+Welcome to the template library for NeuroJazz journaling. These pre-built structures are designed to make your sessions easier, more organized, and repeatable, without losing the flexibility that creativity needs.
 
 ## Available Templates
-
 - [Daily Log Template](daily-log-template.md)
 - [Executive Function Transfer Map](ef-transfer-map-template.md)
 - [THC Session Template](thc-session-template.md)

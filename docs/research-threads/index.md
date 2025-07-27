@@ -1,5 +1,7 @@
 # Research Threads Index
 
+This section collects ongoing questions and ideas for future research inspired by NeuroJazz journaling experiments. Each thread links to a dedicated page for notes and development.
+
 ## Open Questions
 
 - [Does journaling with AI improve mindfulness for ADHD users?](ai-mindfulness.md)
