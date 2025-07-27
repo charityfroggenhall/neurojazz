@@ -3,11 +3,11 @@
 ## Author: Charity Froggenhall (pen name). ##
 ## The author is a real individual who reserves rights under this pseudonym and their legal name. Verification available for research purposes upon request. ##
 
-###You are free to:###
+### You are free to: ###
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material
 
-###Under the following terms:###
+### Under the following terms: ###
 - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - NonCommercial — You may not use the material for commercial purposes.
 
