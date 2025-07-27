@@ -23,10 +23,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-# Include custom CSS folder
-include:
-  - assets/css
-
 # Default settings for pages
 defaults:
   - scope:
@@ -34,3 +30,8 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+# Include custom CSS folder
+include:
+  - _includes
+  - assets/css
