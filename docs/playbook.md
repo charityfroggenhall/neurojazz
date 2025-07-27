@@ -15,7 +15,21 @@
 
 ---
 
-## 3. Tags & Color Coding
+## 3. Tags & Visual Coding
+Color coding is optional and depends on your tool (Markdown alone doesn’t support colors).  
+Here are two simple ways to add visual cues:
+
+### **Emoji Method (Works Everywhere)**
+- 🔵 **Executive Function Insight** — e.g., “🔵 Idea for reducing morning EF load”
+- 🟢 **Somatic Note** — e.g., “🟢 Shoulder tension eased after hydration”
+- 🟣 **Creative Idea** — e.g., “🟣 Possible research angle: THC + ADHD mindfulness”
+
+### **HTML Color (For GitHub Pages / Advanced Users)**
+*(May not render in raw GitHub Markdown view, but works on GitHub Pages and some editors):*
+```html
+<span style="color:blue;">[EF] Executive Function Insight</span><br>
+<span style="color:green;">[GI] Somatic Note</span><br>
+<span style="color:purple;">[Idea] Creative Idea</span>
 - **[EF]** Executive function insight
 - **[GI]** Body awareness or GI tracking
 - **[Idea]** Creative concept stub
