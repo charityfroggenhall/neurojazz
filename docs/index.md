@@ -7,22 +7,12 @@
 
 ---
 
-<p align="center">
-AI-assisted journaling for ADHD minds.<br>
-Capture fast, think slow. No blank-page panic, no lost ideas.
-</p>
-
----
-
 <div align="center">
 
-<h3>🔗 Explore</h3>
-<p>Explore guides, case studies, research threads, and templates below:</p>
+### 🔗 Explore  
+<p>Explore guides, case studies, research threads, and templates below.</p>
 
-<a href="playbook.md">📘 Playbook</a> • 
-<a href="case-study/openai-essay.md">📄 Case Study</a> • 
-<a href="research-threads/index.md">🔍 Research Threads</a> • 
-<a href="templates/index.md">📂 Templates</a>
+**[Playbook](playbook/)** • **[Case Study](case-study/openai-essay/)** • **[Research Threads](research-threads/)** • **[Templates](templates/)**
 
 </div>
 
