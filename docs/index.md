@@ -12,7 +12,7 @@
 ### 🔗 Explore  
 <p>Explore guides, case studies, research threads, and templates below.</p>
 
-**[Playbook](playbook/)** • **[Case Study](case-study/openai-essay/)** • **[Research Threads](research-threads/)** • **[Templates](templates/)**
+**[Playbook](playbook.md)** • **[Case Study](case-study/openai-essay.md)** • **[Research Threads](research-threads/index.md)** • **[Templates](templates/index.md)**
 
 </div>
 
