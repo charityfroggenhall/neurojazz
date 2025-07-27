@@ -5,8 +5,9 @@ url: "https://charityfroggenhall.github.io"
 theme: minima
 markdown: kramdown
 
-# Remove top navigation
+# Remove automatic navigation links
 header_pages: []
+show_excerpts: false
 
 # Plugins for GitHub Pages (supported natively)
 plugins:
