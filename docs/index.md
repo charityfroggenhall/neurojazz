@@ -1,33 +1,34 @@
 ---
-layout: home
+layout: default
 title: "NeuroJazz"
-nav_exclude: true
-permalink: /
 ---
 
-<p align="center">
+<div style="text-align: center;">
   <img src="assets/logo.png" alt="NeuroJazz Logo" width="220"/>
-</p>
-
-<h1 align="center">NeuroJazz</h1>
-<p align="center"><em>Turning ADHD chaos into structured creativity</em></p>
-
----
-
-<div align="center">
-
-AI-assisted journaling for ADHD minds.  
-Capture fast, think slow. No blank-page panic, no lost ideas.
-
----
-
-### 🔗 Explore  
-Explore guides, case studies, research threads, and templates below:
-
-**[Playbook](playbook.md)** • **[Case Study](case-study/openai-essay.md)** • **[Research Threads](research-threads/index.md)** • **[Templates](templates/index.md)**
-
+  <h1>NeuroJazz</h1>
+  <p><em>Turning ADHD chaos into structured creativity</em></p>
 </div>
 
 ---
 
-<p align="center"><strong>License:</strong> Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)</p>
+<p style="text-align: center;">
+AI-assisted journaling for ADHD minds.<br>
+Capture fast, think slow. No blank-page panic, no lost ideas.
+</p>
+
+---
+
+<div style="text-align: center;">
+  <h3>🔗 Explore</h3>
+  <p>Explore guides, case studies, research threads, and templates below:</p>
+  <p>
+    <a href="playbook.html">Playbook</a> •
+    <a href="case-study/openai-essay.html">Case Study</a> •
+    <a href="research-threads/index.html">Research Threads</a> •
+    <a href="templates/index.html">Templates</a>
+  </p>
+</div>
+
+---
+
+<p style="text-align: center;"><strong>License:</strong> Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)</p>
