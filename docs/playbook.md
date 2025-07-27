@@ -30,6 +30,7 @@ Here are two simple ways to add visual cues:
 <span style="color:blue;">[EF] Executive Function Insight</span><br>
 <span style="color:green;">[GI] Somatic Note</span><br>
 <span style="color:purple;">[Idea] Creative Idea</span>
+```
 - **[EF]** Executive function insight
 - **[GI]** Body awareness or GI tracking
 - **[Idea]** Creative concept stub
