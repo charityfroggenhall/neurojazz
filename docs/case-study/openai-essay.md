@@ -1,3 +1,8 @@
+---
+layout: default
+title: Case Study
+---
+
 # Case Study: NeuroJazz — AI-Assisted Journaling for ADHD Minds
 
 ## Why This Exists
